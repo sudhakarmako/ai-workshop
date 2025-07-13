@@ -1,5 +1,3 @@
-Sure! Here is your fully formatted Markdown document following GitHub-flavored Markdown guidelines:
-
 # 🧠 Artificial Intelligence – Humanity’s Last Invention?
 
 _A complete breakdown based on the Kurzgesagt video._
