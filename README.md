@@ -24,3 +24,7 @@
 
 - [AI Engineer](10-ai-engineer.md)
 - [AI Application Developer](11-ai-application-developer.md)
+
+### 📄 Documents
+
+- [12. Tokens in AI](12-token.md)
