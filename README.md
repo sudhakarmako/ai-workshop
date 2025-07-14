@@ -29,3 +29,5 @@
 
 - [Tokens in AI](12-token.md)
 - [Context Window](13.context-window.md)
+- [Prompting](14-prompting.md)
+- [Roles in AI](roles-in-ai.md)
