@@ -27,4 +27,5 @@
 
 ### 📄 Documents
 
-- [12. Tokens in AI](12-token.md)
+- [Tokens in AI](12-token.md)
+- [Context Window](13.context-window.md)
